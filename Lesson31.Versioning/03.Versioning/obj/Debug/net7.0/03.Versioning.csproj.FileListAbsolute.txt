@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson31.Versioning\03.Versioning\bin\Debug\net7.0\03.Versioning.exe
+D:\Projects\VS Projects\Lesson31.Versioning\03.Versioning\bin\Debug\net7.0\03.Versioning.deps.json
+D:\Projects\VS Projects\Lesson31.Versioning\03.Versioning\bin\Debug\net7.0\03.Versioning.runtimeconfig.json
+D:\Projects\VS Projects\Lesson31.Versioning\03.Versioning\bin\Debug\net7.0\03.Versioning.dll
+D:\Projects\VS Projects\Lesson31.Versioning\03.Versioning\bin\Debug\net7.0\03.Versioning.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\03.Versioning\obj\Debug\net7.0\03.Versioning.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson31.Versioning\03.Versioning\obj\Debug\net7.0\03.Versioning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson31.Versioning\03.Versioning\obj\Debug\net7.0\03.Versioning.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\03.Versioning\obj\Debug\net7.0\03.Versioning.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson31.Versioning\03.Versioning\obj\Debug\net7.0\03.Versioning.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\03.Versioning\obj\Debug\net7.0\03.Versioning.dll
+D:\Projects\VS Projects\Lesson31.Versioning\03.Versioning\obj\Debug\net7.0\refint\03.Versioning.dll
+D:\Projects\VS Projects\Lesson31.Versioning\03.Versioning\obj\Debug\net7.0\03.Versioning.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\03.Versioning\obj\Debug\net7.0\03.Versioning.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson31.Versioning\03.Versioning\obj\Debug\net7.0\ref\03.Versioning.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson31.Versioning\13.PatternMatching\bin\Debug\net7.0\13.PatternMatching.exe
+D:\Projects\VS Projects\Lesson31.Versioning\13.PatternMatching\bin\Debug\net7.0\13.PatternMatching.deps.json
+D:\Projects\VS Projects\Lesson31.Versioning\13.PatternMatching\bin\Debug\net7.0\13.PatternMatching.runtimeconfig.json
+D:\Projects\VS Projects\Lesson31.Versioning\13.PatternMatching\bin\Debug\net7.0\13.PatternMatching.dll
+D:\Projects\VS Projects\Lesson31.Versioning\13.PatternMatching\bin\Debug\net7.0\13.PatternMatching.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\13.PatternMatching\obj\Debug\net7.0\13.PatternMatching.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson31.Versioning\13.PatternMatching\obj\Debug\net7.0\13.PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson31.Versioning\13.PatternMatching\obj\Debug\net7.0\13.PatternMatching.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\13.PatternMatching\obj\Debug\net7.0\13.PatternMatching.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson31.Versioning\13.PatternMatching\obj\Debug\net7.0\13.PatternMatching.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\13.PatternMatching\obj\Debug\net7.0\13.PatternMatching.dll
+D:\Projects\VS Projects\Lesson31.Versioning\13.PatternMatching\obj\Debug\net7.0\refint\13.PatternMatching.dll
+D:\Projects\VS Projects\Lesson31.Versioning\13.PatternMatching\obj\Debug\net7.0\13.PatternMatching.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\13.PatternMatching\obj\Debug\net7.0\13.PatternMatching.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson31.Versioning\13.PatternMatching\obj\Debug\net7.0\ref\13.PatternMatching.dll

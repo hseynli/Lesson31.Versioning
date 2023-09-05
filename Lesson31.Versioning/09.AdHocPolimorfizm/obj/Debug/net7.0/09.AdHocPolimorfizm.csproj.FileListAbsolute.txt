@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson31.Versioning\09.AdHocPolimorfizm\bin\Debug\net7.0\09.AdHocPolimorfizm.exe
+D:\Projects\VS Projects\Lesson31.Versioning\09.AdHocPolimorfizm\bin\Debug\net7.0\09.AdHocPolimorfizm.deps.json
+D:\Projects\VS Projects\Lesson31.Versioning\09.AdHocPolimorfizm\bin\Debug\net7.0\09.AdHocPolimorfizm.runtimeconfig.json
+D:\Projects\VS Projects\Lesson31.Versioning\09.AdHocPolimorfizm\bin\Debug\net7.0\09.AdHocPolimorfizm.dll
+D:\Projects\VS Projects\Lesson31.Versioning\09.AdHocPolimorfizm\bin\Debug\net7.0\09.AdHocPolimorfizm.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\09.AdHocPolimorfizm\obj\Debug\net7.0\09.AdHocPolimorfizm.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson31.Versioning\09.AdHocPolimorfizm\obj\Debug\net7.0\09.AdHocPolimorfizm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson31.Versioning\09.AdHocPolimorfizm\obj\Debug\net7.0\09.AdHocPolimorfizm.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\09.AdHocPolimorfizm\obj\Debug\net7.0\09.AdHocPolimorfizm.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson31.Versioning\09.AdHocPolimorfizm\obj\Debug\net7.0\09.AdHocPolimorfizm.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\09.AdHocPolimorfizm\obj\Debug\net7.0\09.AdHocPolimorfizm.dll
+D:\Projects\VS Projects\Lesson31.Versioning\09.AdHocPolimorfizm\obj\Debug\net7.0\refint\09.AdHocPolimorfizm.dll
+D:\Projects\VS Projects\Lesson31.Versioning\09.AdHocPolimorfizm\obj\Debug\net7.0\09.AdHocPolimorfizm.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\09.AdHocPolimorfizm\obj\Debug\net7.0\09.AdHocPolimorfizm.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson31.Versioning\09.AdHocPolimorfizm\obj\Debug\net7.0\ref\09.AdHocPolimorfizm.dll

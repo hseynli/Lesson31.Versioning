@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson31.Versioning\10.AdHocPolimortfizm\bin\Debug\net7.0\10.AdHocPolimortfizm.exe
+D:\Projects\VS Projects\Lesson31.Versioning\10.AdHocPolimortfizm\bin\Debug\net7.0\10.AdHocPolimortfizm.deps.json
+D:\Projects\VS Projects\Lesson31.Versioning\10.AdHocPolimortfizm\bin\Debug\net7.0\10.AdHocPolimortfizm.runtimeconfig.json
+D:\Projects\VS Projects\Lesson31.Versioning\10.AdHocPolimortfizm\bin\Debug\net7.0\10.AdHocPolimortfizm.dll
+D:\Projects\VS Projects\Lesson31.Versioning\10.AdHocPolimortfizm\bin\Debug\net7.0\10.AdHocPolimortfizm.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\10.AdHocPolimortfizm\obj\Debug\net7.0\10.AdHocPolimortfizm.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson31.Versioning\10.AdHocPolimortfizm\obj\Debug\net7.0\10.AdHocPolimortfizm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson31.Versioning\10.AdHocPolimortfizm\obj\Debug\net7.0\10.AdHocPolimortfizm.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\10.AdHocPolimortfizm\obj\Debug\net7.0\10.AdHocPolimortfizm.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson31.Versioning\10.AdHocPolimortfizm\obj\Debug\net7.0\10.AdHocPolimortfizm.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\10.AdHocPolimortfizm\obj\Debug\net7.0\10.AdHocPolimortfizm.dll
+D:\Projects\VS Projects\Lesson31.Versioning\10.AdHocPolimortfizm\obj\Debug\net7.0\refint\10.AdHocPolimortfizm.dll
+D:\Projects\VS Projects\Lesson31.Versioning\10.AdHocPolimortfizm\obj\Debug\net7.0\10.AdHocPolimortfizm.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\10.AdHocPolimortfizm\obj\Debug\net7.0\10.AdHocPolimortfizm.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson31.Versioning\10.AdHocPolimortfizm\obj\Debug\net7.0\ref\10.AdHocPolimortfizm.dll

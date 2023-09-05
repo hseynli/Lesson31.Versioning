@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson31.Versioning\14.PropertyMatching\bin\Debug\net7.0\14.PropertyMatching.exe
+D:\Projects\VS Projects\Lesson31.Versioning\14.PropertyMatching\bin\Debug\net7.0\14.PropertyMatching.deps.json
+D:\Projects\VS Projects\Lesson31.Versioning\14.PropertyMatching\bin\Debug\net7.0\14.PropertyMatching.runtimeconfig.json
+D:\Projects\VS Projects\Lesson31.Versioning\14.PropertyMatching\bin\Debug\net7.0\14.PropertyMatching.dll
+D:\Projects\VS Projects\Lesson31.Versioning\14.PropertyMatching\bin\Debug\net7.0\14.PropertyMatching.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\14.PropertyMatching\obj\Debug\net7.0\14.PropertyMatching.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson31.Versioning\14.PropertyMatching\obj\Debug\net7.0\14.PropertyMatching.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson31.Versioning\14.PropertyMatching\obj\Debug\net7.0\14.PropertyMatching.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\14.PropertyMatching\obj\Debug\net7.0\14.PropertyMatching.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson31.Versioning\14.PropertyMatching\obj\Debug\net7.0\14.PropertyMatching.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\14.PropertyMatching\obj\Debug\net7.0\14.PropertyMatching.dll
+D:\Projects\VS Projects\Lesson31.Versioning\14.PropertyMatching\obj\Debug\net7.0\refint\14.PropertyMatching.dll
+D:\Projects\VS Projects\Lesson31.Versioning\14.PropertyMatching\obj\Debug\net7.0\14.PropertyMatching.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\14.PropertyMatching\obj\Debug\net7.0\14.PropertyMatching.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson31.Versioning\14.PropertyMatching\obj\Debug\net7.0\ref\14.PropertyMatching.dll

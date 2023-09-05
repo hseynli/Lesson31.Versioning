@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson31.Versioning\19.ListPatterns\bin\Debug\net7.0\19.ListPatterns.exe
+D:\Projects\VS Projects\Lesson31.Versioning\19.ListPatterns\bin\Debug\net7.0\19.ListPatterns.deps.json
+D:\Projects\VS Projects\Lesson31.Versioning\19.ListPatterns\bin\Debug\net7.0\19.ListPatterns.runtimeconfig.json
+D:\Projects\VS Projects\Lesson31.Versioning\19.ListPatterns\bin\Debug\net7.0\19.ListPatterns.dll
+D:\Projects\VS Projects\Lesson31.Versioning\19.ListPatterns\bin\Debug\net7.0\19.ListPatterns.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\19.ListPatterns\obj\Debug\net7.0\19.ListPatterns.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson31.Versioning\19.ListPatterns\obj\Debug\net7.0\19.ListPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson31.Versioning\19.ListPatterns\obj\Debug\net7.0\19.ListPatterns.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\19.ListPatterns\obj\Debug\net7.0\19.ListPatterns.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson31.Versioning\19.ListPatterns\obj\Debug\net7.0\19.ListPatterns.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\19.ListPatterns\obj\Debug\net7.0\19.ListPatterns.dll
+D:\Projects\VS Projects\Lesson31.Versioning\19.ListPatterns\obj\Debug\net7.0\refint\19.ListPatterns.dll
+D:\Projects\VS Projects\Lesson31.Versioning\19.ListPatterns\obj\Debug\net7.0\19.ListPatterns.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\19.ListPatterns\obj\Debug\net7.0\19.ListPatterns.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson31.Versioning\19.ListPatterns\obj\Debug\net7.0\ref\19.ListPatterns.dll

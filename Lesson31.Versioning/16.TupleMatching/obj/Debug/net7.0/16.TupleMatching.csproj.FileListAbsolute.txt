@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson31.Versioning\16.TupleMatching\bin\Debug\net7.0\16.TupleMatching.exe
+D:\Projects\VS Projects\Lesson31.Versioning\16.TupleMatching\bin\Debug\net7.0\16.TupleMatching.deps.json
+D:\Projects\VS Projects\Lesson31.Versioning\16.TupleMatching\bin\Debug\net7.0\16.TupleMatching.runtimeconfig.json
+D:\Projects\VS Projects\Lesson31.Versioning\16.TupleMatching\bin\Debug\net7.0\16.TupleMatching.dll
+D:\Projects\VS Projects\Lesson31.Versioning\16.TupleMatching\bin\Debug\net7.0\16.TupleMatching.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\16.TupleMatching\obj\Debug\net7.0\16.TupleMatching.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson31.Versioning\16.TupleMatching\obj\Debug\net7.0\16.TupleMatching.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson31.Versioning\16.TupleMatching\obj\Debug\net7.0\16.TupleMatching.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\16.TupleMatching\obj\Debug\net7.0\16.TupleMatching.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson31.Versioning\16.TupleMatching\obj\Debug\net7.0\16.TupleMatching.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\16.TupleMatching\obj\Debug\net7.0\16.TupleMatching.dll
+D:\Projects\VS Projects\Lesson31.Versioning\16.TupleMatching\obj\Debug\net7.0\refint\16.TupleMatching.dll
+D:\Projects\VS Projects\Lesson31.Versioning\16.TupleMatching\obj\Debug\net7.0\16.TupleMatching.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\16.TupleMatching\obj\Debug\net7.0\16.TupleMatching.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson31.Versioning\16.TupleMatching\obj\Debug\net7.0\ref\16.TupleMatching.dll

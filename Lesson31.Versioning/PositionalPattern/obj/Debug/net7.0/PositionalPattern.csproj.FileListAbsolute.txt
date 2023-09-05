@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson31.Versioning\PositionalPattern\bin\Debug\net7.0\PositionalPattern.exe
+D:\Projects\VS Projects\Lesson31.Versioning\PositionalPattern\bin\Debug\net7.0\PositionalPattern.deps.json
+D:\Projects\VS Projects\Lesson31.Versioning\PositionalPattern\bin\Debug\net7.0\PositionalPattern.runtimeconfig.json
+D:\Projects\VS Projects\Lesson31.Versioning\PositionalPattern\bin\Debug\net7.0\PositionalPattern.dll
+D:\Projects\VS Projects\Lesson31.Versioning\PositionalPattern\bin\Debug\net7.0\PositionalPattern.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\PositionalPattern\obj\Debug\net7.0\PositionalPattern.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson31.Versioning\PositionalPattern\obj\Debug\net7.0\PositionalPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson31.Versioning\PositionalPattern\obj\Debug\net7.0\PositionalPattern.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\PositionalPattern\obj\Debug\net7.0\PositionalPattern.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson31.Versioning\PositionalPattern\obj\Debug\net7.0\PositionalPattern.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\PositionalPattern\obj\Debug\net7.0\PositionalPattern.dll
+D:\Projects\VS Projects\Lesson31.Versioning\PositionalPattern\obj\Debug\net7.0\refint\PositionalPattern.dll
+D:\Projects\VS Projects\Lesson31.Versioning\PositionalPattern\obj\Debug\net7.0\PositionalPattern.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\PositionalPattern\obj\Debug\net7.0\PositionalPattern.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson31.Versioning\PositionalPattern\obj\Debug\net7.0\ref\PositionalPattern.dll

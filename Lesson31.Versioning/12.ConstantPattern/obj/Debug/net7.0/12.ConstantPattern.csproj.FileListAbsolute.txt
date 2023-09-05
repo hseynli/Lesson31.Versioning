@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson31.Versioning\12.ConstantPattern\bin\Debug\net7.0\12.ConstantPattern.exe
+D:\Projects\VS Projects\Lesson31.Versioning\12.ConstantPattern\bin\Debug\net7.0\12.ConstantPattern.deps.json
+D:\Projects\VS Projects\Lesson31.Versioning\12.ConstantPattern\bin\Debug\net7.0\12.ConstantPattern.runtimeconfig.json
+D:\Projects\VS Projects\Lesson31.Versioning\12.ConstantPattern\bin\Debug\net7.0\12.ConstantPattern.dll
+D:\Projects\VS Projects\Lesson31.Versioning\12.ConstantPattern\bin\Debug\net7.0\12.ConstantPattern.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\12.ConstantPattern\obj\Debug\net7.0\12.ConstantPattern.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson31.Versioning\12.ConstantPattern\obj\Debug\net7.0\12.ConstantPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson31.Versioning\12.ConstantPattern\obj\Debug\net7.0\12.ConstantPattern.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\12.ConstantPattern\obj\Debug\net7.0\12.ConstantPattern.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson31.Versioning\12.ConstantPattern\obj\Debug\net7.0\12.ConstantPattern.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson31.Versioning\12.ConstantPattern\obj\Debug\net7.0\12.ConstantPattern.dll
+D:\Projects\VS Projects\Lesson31.Versioning\12.ConstantPattern\obj\Debug\net7.0\refint\12.ConstantPattern.dll
+D:\Projects\VS Projects\Lesson31.Versioning\12.ConstantPattern\obj\Debug\net7.0\12.ConstantPattern.pdb
+D:\Projects\VS Projects\Lesson31.Versioning\12.ConstantPattern\obj\Debug\net7.0\12.ConstantPattern.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson31.Versioning\12.ConstantPattern\obj\Debug\net7.0\ref\12.ConstantPattern.dll
